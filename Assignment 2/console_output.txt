@@ -1,0 +1,79 @@
+PS C:\Users\owner> & python "c:/Users/owner/Desktop/MASTERS/Spring 2021/CIS600 DataMining/Assignment/Assign2/CIS600Assign2.py"
+Fetched 505 total friends ids for KeithRunes
+Fetched 276 total followers ids for KeithRunes
+Fetched 5000 total friends ids for 1056251520
+Fetched 5000 total followers ids for 1056251520
+Got reciprocal_ids for 1056251520:[33537967, 67728650, 376448253, 825776310790266883, 27599956]
+Fetched 2241 total friends ids for 16404932
+Fetched 5000 total followers ids for 16404932
+Got reciprocal_ids for 16404932:[14247236, 61734492, 11744152, 13524182, 289342771]
+Fetched 4866 total friends ids for 216635630
+Fetched 5000 total followers ids for 216635630
+Got reciprocal_ids for 216635630:[21360280, 14134204, 226350647, 554264453, 2704209163]
+Fetched 1368 total friends ids for 17790505
+Fetched 4873 total followers ids for 17790505
+Got reciprocal_ids for 17790505:[521321191, 55121922, 28744383, 102135528, 140308631]
+Fetched 5000 total friends ids for 33537967
+Fetched 5000 total followers ids for 33537967
+Got reciprocal_ids for 33537967:[]
+Fetched 3805 total friends ids for 67728650
+Fetched 5000 total followers ids for 67728650
+Got reciprocal_ids for 67728650:[4541535439, 2615789766, 31455711, 739602678, 953224993]
+Fetched 5000 total friends ids for 376448253
+Fetched 5000 total followers ids for 376448253
+Got reciprocal_ids for 376448253:[22411342, 31404917, 393605516, 17423332, 44569137]
+Fetched 5000 total friends ids for 825776310790266883
+Fetched 5000 total followers ids for 825776310790266883
+Got reciprocal_ids for 825776310790266883:[2823033751, 1080188052365029376, 31705210, 2904231345, 270195321]
+Fetched 5000 total friends ids for 27599956
+Fetched 5000 total followers ids for 27599956
+Got reciprocal_ids for 27599956:[24897626, 574023889, 490900538, 326030596, 72660086]
+Fetched 5000 total friends ids for 14247236
+Fetched 5000 total followers ids for 14247236
+Got reciprocal_ids for 14247236:[51904457, 1213212165500325888, 23245909, 1305914989891301377, 1258014527771349000]
+Fetched 5000 total friends ids for 61734492
+Fetched 5000 total followers ids for 61734492
+Got reciprocal_ids for 61734492:[2434191967, 17877451, 17237039, 147077615, 57979583]
+Fetched 5000 total friends ids for 11744152
+Fetched 5000 total followers ids for 11744152
+Got reciprocal_ids for 11744152:[619050616, 22063870, 16190305, 5691492, 229948215]
+Fetched 5000 total friends ids for 13524182
+Fetched 5000 total followers ids for 13524182
+Got reciprocal_ids for 13524182:[17919393, 48441742, 27979651, 494287469, 420100653]
+Fetched 5000 total friends ids for 289342771
+Fetched 5000 total followers ids for 289342771
+Got reciprocal_ids for 289342771:[1019974187975430144, 28395645, 22856697, 45891623, 14792188]
+Encountered 429 Error (Rate Limit Exceeded)
+Retrying in 15 minutes...ZzZ...
+...ZzZ...Awake now and trying again.
+Fetched 5000 total friends ids for 21360280
+Fetched 5000 total followers ids for 21360280
+Got reciprocal_ids for 21360280:[740597986846203904, 13790282, 28405767, 141468904, 419890835]
+Fetched 5000 total friends ids for 14134204
+Fetched 5000 total followers ids for 14134204
+Got reciprocal_ids for 14134204:[18539631, 46233559, 11744152, 13524182, 18382184]
+Fetched 5000 total friends ids for 226350647
+Fetched 5000 total followers ids for 226350647
+Got reciprocal_ids for 226350647:[1269037446, 1278229443602010112, 2928571322, 1002611286, 1179901272570421248]
+Fetched 5000 total friends ids for 554264453
+Fetched 5000 total followers ids for 554264453
+Got reciprocal_ids for 554264453:[335544569, 3891985684, 796372951692087296, 3275082379, 2564047693]
+Fetched 1123 total friends ids for 2704209163
+Fetched 5000 total followers ids for 2704209163
+Got reciprocal_ids for 2704209163:[378768854, 1464000252, 1484284405, 1443291793, 768888252938018816]
+Fetched 435 total friends ids for 521321191
+Fetched 5000 total followers ids for 521321191
+Got reciprocal_ids for 521321191:[17828988, 19733898, 24580952, 1067113056457695232, 520431325]
+Fetched 5000 total friends ids for 55121922
+Fetched 5000 total followers ids for 55121922
+Got reciprocal_ids for 55121922:[168541923, 164060400, 547306582, 615927039, 41160647]
+Fetched 5000 total friends ids for 28744383
+Fetched 5000 total followers ids for 28744383
+Got reciprocal_ids for 28744383:[255812611, 929399289436147713, 23865382, 15433452, 1138886434478182401]
+# of Nodes = 108
+
+# of Edges = 110
+
+average distance = 4.764105226722049
+
+diameter = 6
